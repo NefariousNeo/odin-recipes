@@ -21,3 +21,6 @@ This project was fairly interesting for me. I was surprised how much you can bui
 * HTML Entities
 * Lists (`<ul>`, `<ol>`, `<li>`)
 
+## GitHub Pages
+
+[Live Demo](https://nefariousneo.github.io/odin-recipes/)
