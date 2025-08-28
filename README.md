@@ -24,3 +24,9 @@ This project was fairly interesting for me. I was surprised how much you can bui
 ## GitHub Pages
 
 [Live Demo](https://nefariousneo.github.io/odin-recipes/)
+
+## Future Development
+
+* Apply CSS for layout, typography, and color styling
+* Add hover states and transitions to improve user experience
+* Optimize for readability on mobile devices
